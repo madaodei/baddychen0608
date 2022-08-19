@@ -26,47 +26,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   {
-      "key": "Gitcafe",
-      "name": "小纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "ad3c78559a494bde814f1a6c8c40db51"
-    },
-    {
-      "key": "AliPS",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "ad3c78559a494bde814f1a6c8c40db51"
-    },
-    {
-      "key": "zhaozy",
-      "name": "找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "ad3c78559a494bde814f1a6c8c40db51"
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "ad3c78559a494bde814f1a6c8c40db51"
-    }	  
-    
+  
 {"key": "csp_Yisou"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"3899d727125e4f51a248c6fc4e4dc10c"},
 {"key": "csp_Gitcafe"    ,"name":"🐞阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"3899d727125e4f51a248c6fc4e4dc10c"},  
 {"key": "csp_AliPS"  ,"name":"🐞阿里喵搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"3899d727125e4f51a248c6fc4e4dc10c"},
