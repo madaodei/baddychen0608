@@ -1,6 +1,6 @@
 	{
   "spider":"https://madaodei.github.io/baddychen0608/77.jar",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20va2Fud2lkZ2cvd2VueWl0aWFuLmdpdGh1Yi5pby9yYXcvYnJhbmNoL21haW4vemIudHh0"]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL21hZGFvZGVpL3R2Ym94L2Jsb2IvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
 
   "sites":[
     {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
